@@ -1,0 +1,6 @@
+tensorflow
+numpy
+scikit-image
+matplotlib
+python-chess
+tqdm
